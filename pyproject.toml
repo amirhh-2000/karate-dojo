@@ -1,0 +1,11 @@
+[project]
+name = "karate-dojo"
+version = "0.1.0"
+description = "A simple Karate Dojo"
+authors = [{ name="Amir Hossein", email="amirse7997@gmail.com" }]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pelican[markdown]>=4.11.0",
+]
